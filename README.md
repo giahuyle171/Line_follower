@@ -9,21 +9,18 @@ Mạch cảm biến line 9 kênh tự thiết kế và chế tạo từ cảm bi
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/29899d5b-b0a0-4f7b-b546-4d9e57cbc2b1" width="100%" alt="Mo ta anh 1">
       <br>
-      <sub>Chú thích cho ảnh 1</sub>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/2082eb45-385d-4386-9c06-ac24d8af96cc" width="100%" alt="Mo ta anh 2">
       <br>
-      <sub>Chú thích cho ảnh 2</sub>
     </td>
   </tr>
 </table>
 # Video Demo
 Chạy test tại vòng loại cuộc thi FPT F-MAZESOLVING
-<p align="center">
-  <video src="image/2aOboRC7GPBdOLJ038NfkpxE2WJiVAU1bm72zBnU.mp4" width="100%" autoplay loop muted playsinline></video>
-</p>
-https://github.com/user-attachments/assets/96d15974-35f5-49dc-a207-836b38fffcbe
+
+https://github.com/user-attachments/assets/a309e2cb-3b27-4f8a-8124-bf8b6f23601c
+
 
 
 
