@@ -32,4 +32,6 @@ Custom-engineered 9-channel infrared reflective sensor module built with precisi
 
 Performance test during the preliminary round of the **FPT F-MazeSolving** competition:
 
-<video src="https://github.com/user-attachments/assets/a309e2cb-3b27-4f8a-8124-bf8b6f23601c" controls width="100%"></video>
+https://github.com/user-attachments/assets/4bb438f9-6438-44ca-b413-2d9a22dbe2b1
+
+
