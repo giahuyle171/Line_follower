@@ -16,7 +16,9 @@ Mạch cảm biến line 9 kênh tự thiết kế và chế tạo từ cảm bi
     </td>
   </tr>
 </table>
+
 # Video Demo
+
 Chạy test tại vòng loại cuộc thi FPT F-MAZESOLVING
 
 https://github.com/user-attachments/assets/a309e2cb-3b27-4f8a-8124-bf8b6f23601c
