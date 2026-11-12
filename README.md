@@ -2,7 +2,7 @@
 Robot bám vạch tự động với mạch cảm biến line 9 khênh tự chế tạo
 <img width="2560" height="1920" alt="f51f4ea8ef726f2c3663" src="https://github.com/user-attachments/assets/25d5c0be-3086-4aba-8b90-f863bf5ac0fa" />
 
-# Line array sensor
+# Line follower sensor array
 Mạch cảm biến line 9 kênh từ led thu phát hồng ngoại
 <table>
   <tr>
