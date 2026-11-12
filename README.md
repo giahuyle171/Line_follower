@@ -1,4 +1,4 @@
-# 🤖 Autonomous Line Follower Robot
+# Autonomous Line Follower Robot
 
 An advanced line-following robot featuring a custom-designed 9-channel infrared sensor array tailored for high-precision track detection.
 
@@ -8,7 +8,7 @@ An advanced line-following robot featuring a custom-designed 9-channel infrared 
 
 ---
 
-## 🔍 9-Channel Sensor Array
+## 9-Channel Sensor Array
 Custom-engineered 9-channel infrared reflective sensor module built with precision phototransistors and LEDs for sharp line discrimination.
 
 <table>
